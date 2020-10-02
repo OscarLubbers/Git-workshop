@@ -1,4 +1,4 @@
 # Git-workshop
 StartingRepository voor een Git-workshop voor non-developer
 
-Changing this file
+This is the repository of OscarLubbers
